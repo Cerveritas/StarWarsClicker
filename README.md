@@ -1,4 +1,4 @@
-Clicker de Star Wars
+Clicker de Star Wars - AndroidStudio
 ¡Bienvenido al Clicker de Star Wars!
 
 Este es un juego simple pero adictivo donde puedes aumentar tu puntuación haciendo clic en el botón "¡Que la fuerza te acompañe!". A medida que acumulas puntos, puedes desbloquear nuevos personajes y habilidades de Star Wars.
